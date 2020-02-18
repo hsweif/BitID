@@ -1,0 +1,6 @@
+[submodule "BitID-server"]
+	path = BitID-server
+	url = git@github.com:AlexFxw/BitID-server.git
+[submodule "BitID-client"]
+	path = BitID-client
+	url = git@github.com:AlexFxw/BitID-client.git
