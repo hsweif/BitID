@@ -1,5 +1,14 @@
 # BitID
 
+## Before you start
+
+As we use git submodule, you will need to clone it recursively or run the command below after cloning it.
+
+```bash
+git submodule init
+git submodule update --recursive
+```
+
 ## Components
 
 The source of BitID was composed of 2 repositories.
